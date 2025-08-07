@@ -180,7 +180,15 @@ module.exports = {
                 {
                     text: 'shell脚本实现应用的自动启停',
                     link: '/computerbasic/shellautostart/'
-                }
+                },
+                {
+                    text: 'Linux下查询日志的技巧',
+                    link: '/computerbasic/querylog/'
+                },
+                {
+                    text: 'python基础知识',
+                    link: '/computerbasic/pythonprimer/'
+                },
             ]
         },
     ]

@@ -26,6 +26,10 @@ sticky: 4
 
 查看当前文件夹的大小：`du -sh`
 
+查看当前文件夹所有文件的大小 `du -sh *`
+
+查看当前文件夹文件大小并排序 `du -sh *|sort -h`
+
 查找文件位置：` find /home -name "myshell*"`  
 find 文件位置 -name 要查找的文件名
 
