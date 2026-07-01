@@ -40,6 +40,10 @@ module.exports = {
                 {
                     text: 'MySQL、Oracle、DB2导入导出常用命令',
                     link: '/database/impexpcod'
+                },
+                {
+                    text: '数据库索引与SQL执行流程',
+                    link: '/database/indexandsqlprocess'
                 }
             ]
         }
