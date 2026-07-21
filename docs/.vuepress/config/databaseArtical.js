@@ -44,6 +44,10 @@ module.exports = {
                 {
                     text: '数据库索引与SQL执行流程',
                     link: '/database/indexandsqlprocess'
+                },
+                {
+                    text: '基于MySQL数据库的序号自增方式',
+                    link: '/database/autosequence'
                 }
             ]
         }
