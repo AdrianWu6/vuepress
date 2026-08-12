@@ -48,6 +48,14 @@ module.exports = {
                 {
                     text: '基于MySQL数据库的序号自增方式',
                     link: '/database/autosequence'
+                },
+                {
+                    text: 'xtrabackup MySQL的物理备份',
+                    link: '/database/xtrabackup'
+                },
+                {
+                    text: '分析MysqlDump恢复慢点原因',
+                    link: '/database/mysqlbackupslow'
                 }
             ]
         }
