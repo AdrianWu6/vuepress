@@ -163,6 +163,10 @@ module.exports = {
                 {
                     text: '字符集与字符编码',
                     link: '/computerbasic/charcode/'
+                },
+                {
+                    text: '字符集与字符编码',
+                    link: '/computerbasic/booleanalgebra/'
                 }
             ]
         },

@@ -10,6 +10,11 @@ const computerArtical = require("./config/computerArtical")
 module.exports = {
   title: '月牙弯弯',
   description: '路上见识世界，途中认识自己',
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-katex'))
+    }
+  },
   plugins: pluginsConfig,
   head: headConfig,
   theme: 'reco',
